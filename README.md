@@ -1,6 +1,8 @@
 # Tarot
 Small Python App to read Tarot.
 
+git clone https://github.com/ThornEnterprise/Tarot.git
+
 Just run python3 Tarot.py 
 
 Tarot.py calls Deck.py as a module to serve cards. 
